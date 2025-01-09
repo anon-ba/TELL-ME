@@ -1,6 +1,6 @@
 # TELL-ME
 
-Tailored Explanation of Large Language ModEls
+Toward personalized Explanations of Large Language ModEls. 
 
 A prototype for personalized explanations of generative artificial intelligence (GenXAI) outputs. This README provides an overview of the project, installation instructions and other essential information.
 
